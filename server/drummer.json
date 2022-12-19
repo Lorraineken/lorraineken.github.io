@@ -1,0 +1,19 @@
+{
+    "drummer": [
+        {
+          "id": 1,
+          "name": "Brolyne",
+          "band": "Niuru"
+        },
+        {
+          "id": 2,
+          "name": "kupa",
+          "band": "5 star"
+        },
+        {
+          "name": "Dave",
+          "band": "Ensave",
+          "id": 3
+        }
+      ]
+}
