@@ -1,19 +1,32 @@
 {
-    "drummer": [
-        {
-          "id": 1,
-          "name": "Brolyne",
-          "band": "Niuru"
-        },
-        {
-          "id": 2,
-          "name": "kupa",
-          "band": "5 star"
-        },
-        {
-          "name": "Dave",
-          "band": "Ensave",
-          "id": 3
-        }
-      ]
+  "drummer": [
+    {
+      "id": 1,
+      "name": "Brolyne",
+      "band": "Niuru",
+      "contact": "brolyne@niurumail.com",
+      "socialMedia": "instagram:https://www.instagram.com/niuru-bro"
+    },
+    {
+      "id": 2,
+      "name": "kupa",
+      "band": "5 star",
+      "contact": "kupa@starmail.com",
+      "socialMedia": "youtube:https://www.youtube.com/kups"
+    },
+    {
+      "name": "Dave",
+      "band": "Ensave",
+      "contact": "dave@ensavemail.com",
+      "socialMedia": "instagram:https://www.instagram.com/daveMusic",
+      "id": 3
+    },
+    {
+      "name": "Rene",
+      "band": "none",
+      "contact": "rene@youmail.com",
+      "socialMedia": "youtube:https://www.youtube.com/reneMusic",
+      "id": 4
+    }
+  ]
 }

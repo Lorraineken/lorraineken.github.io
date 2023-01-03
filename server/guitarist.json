@@ -1,19 +1,25 @@
 {
-    "guitarist": [
-        {
-          "id": 1,
-          "name": "Shaka",
-          "band": "Mavuno"
-        },
-        {
-          "id": 2,
-          "name": "Shiro",
-          "band": "Talanta"
-        },
-        {
-          "name": "Ken",
-          "band": "beats",
-          "id": 3
-        }
-      ]
+  "guitarist": [
+    {
+      "id": 1,
+      "name": "Shaka",
+      "band": "Mavuno",
+      "contact": "rene@youmail.com",
+      "socialMedia": "youtube:https://www.youtube.com/reneMusic"
+    },
+    {
+      "id": 2,
+      "name": "Shiro",
+      "band": "Talanta",
+      "contact": "shee@talanta.com",
+      "socialMedia": "facebook:https://www.facebook.com/sheeArtist"
+    },
+    {
+      "name": "Ken",
+      "band": "beats",
+      "contact": "ken@youmail.com",
+      "socialMedia": "instagram:https://www.instagram.com/ken_beats",
+      "id": 3
+    }
+  ]
 }

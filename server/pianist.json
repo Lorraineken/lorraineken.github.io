@@ -1,19 +1,32 @@
 {
-    "pianist": [
-        {
-          "id": 1,
-          "name": "Elijah",
-          "band": "Wahenguzi"
-        },
-        {
-          "id": 2,
-          "name": "Victor",
-          "band": "5 star"
-        },
-        {
-          "name": "John",
-          "band": "beats",
-          "id": 3
-        }
-      ] 
+  "pianist": [
+    {
+      "id": 1,
+      "name": "Elijah",
+      "band": "Wahenguzi",
+      "contact": "elijah@mhengamail.com",
+      "socialMedia": "instagram:https://www.instagram.com/wahenguzi"
+    },
+    {
+      "id": 2,
+      "name": "Victor",
+      "band": "5 star",
+      "contact": "victor@starmail.com",
+      "socialMedia": "facebook:https://www.facebook.com/vicStar"
+    },
+    {
+      "name": "John",
+      "band": "beats",
+      "contact": "john@gmail.com",
+      "socialMedia": "youtube:https://www.youtube.com/johnMusic",
+      "id": 3
+    },
+    {
+      "name": "Jane",
+      "band": "Sqoe",
+      "contact": "jane@youmail.com",
+      "socialMedia": "instagram:https://www.instagram.com/jane_254",
+      "id": 4
+    }
+  ]
 }
